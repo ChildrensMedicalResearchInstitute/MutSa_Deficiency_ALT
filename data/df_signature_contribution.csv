@@ -1,0 +1,381 @@
+,signature,group,contribution,aetiology,metric
+0,SBS1,A3L1,0.018364498858807938,Spontaneous deamination of 5-methylcytosine,SBS
+1,SBS2,A3L1,0.0005522297885448771,Activity of APOBEC family of cytidine deaminases,SBS
+2,SBS3,A3L1,0.08058196939848172,Defective homologous recombination DNA damage repair,SBS
+3,SBS4,A3L1,0.020737390240182906,Tobacco smoking,SBS
+4,SBS5,A3L1,0.11293509721972872,Unknown,SBS
+5,SBS6,A3L1,0.01080483387769717,Mismatch repair,SBS
+6,SBS7a,A3L1,0.0032635714889766338,Ultraviolet light exposure,SBS
+7,SBS7b,A3L1,0.0,Ultraviolet light exposure,SBS
+8,SBS7c,A3L1,0.00032096636383616796,Ultraviolet light exposure,SBS
+9,SBS7d,A3L1,0.0,Ultraviolet light exposure,SBS
+10,SBS8,A3L1,0.09653776322324881,Unknown,SBS
+11,SBS9,A3L1,0.0,Polimerase eta somatic hypermutation activity,SBS
+12,SBS10a,A3L1,0.0023470716647565016,Polymerase epsilon exonuclease domain mutations,SBS
+13,SBS10b,A3L1,0.022054621468275762,Polymerase epsilon exonuclease domain mutations,SBS
+14,SBS11,A3L1,0.0,Temozolomide treatment,SBS
+15,SBS12,A3L1,0.04613783848794158,Unknown,SBS
+16,SBS13,A3L1,0.011816192239173722,Activity of APOBEC family of cytidine deaminases,SBS
+17,SBS14,A3L1,0.0,Mismatch repair,SBS
+18,SBS15,A3L1,0.0,Mismatch repair,SBS
+19,SBS16,A3L1,0.0033336779412706102,Unknown,SBS
+20,SBS17a,A3L1,0.0,Unknown,SBS
+21,SBS17b,A3L1,0.0002006745764292394,Unknown,SBS
+22,SBS18,A3L1,0.0242771537260665,Damage by reactive oxygen species,SBS
+23,SBS19,A3L1,0.0,Unknown,SBS
+24,SBS20,A3L1,0.005068395736671647,Mismatch repair,SBS
+25,SBS21,A3L1,0.0,Mismatch repair,SBS
+26,SBS22,A3L1,0.005125930777963797,Aristolochic acid exposure,SBS
+27,SBS23,A3L1,0.0,Unknown,SBS
+28,SBS24,A3L1,0.0,Aflatoxin exposure,SBS
+29,SBS25,A3L1,0.0,Chemotherapy treatment,SBS
+30,SBS26,A3L1,0.0,Mismatch repair,SBS
+31,SBS27,A3L1,0.0,Sequencing Artefacts,SBS
+32,SBS28,A3L1,0.0,Unknown,SBS
+33,SBS29,A3L1,0.0,Tobacco chewing,SBS
+34,SBS30,A3L1,0.035791578760093444,Defective DNA base excision repair due to NTHL1 mutations,SBS
+35,SBS31,A3L1,0.0,Platinum chemotherapy treatment,SBS
+36,SBS32,A3L1,0.0,Azathioprine treatment,SBS
+37,SBS33,A3L1,0.013110245084148478,Unknown,SBS
+38,SBS34,A3L1,0.007173415047947304,Unknown,SBS
+39,SBS35,A3L1,0.0,Platinum chemotherapy treatment,SBS
+40,SBS36,A3L1,0.01816583820258459,Defective DNA base excision repair due to MUTYH mutations,SBS
+41,SBS37,A3L1,0.08830518392792115,Unknown,SBS
+42,SBS38,A3L1,0.0,Indirect effect of ultraviolet light,SBS
+43,SBS39,A3L1,0.00763680522668234,Unknown,SBS
+44,SBS40,A3L1,0.036221781625181075,Unknown,SBS
+45,SBS41,A3L1,0.0,Unknown,SBS
+46,SBS42,A3L1,0.0,Haloalkane exposure,SBS
+47,SBS43,A3L1,0.013385761234954113,Sequencing Artefacts,SBS
+48,SBS44,A3L1,0.06843961513261262,Mismatch repair,SBS
+49,SBS45,A3L1,0.04315721682205723,Sequencing Artefacts,SBS
+50,SBS46,A3L1,0.07888671249468229,Sequencing Artefacts,SBS
+51,SBS47,A3L1,0.0,Sequencing Artefacts,SBS
+52,SBS48,A3L1,0.0014046947729606247,Sequencing Artefacts,SBS
+53,SBS49,A3L1,0.0,Sequencing Artefacts,SBS
+54,SBS50,A3L1,0.0,Sequencing Artefacts,SBS
+55,SBS51,A3L1,0.036658030739989196,Sequencing Artefacts,SBS
+56,SBS52,A3L1,0.0037175949077282795,Sequencing Artefacts,SBS
+57,SBS53,A3L1,0.011381391668698955,Sequencing Artefacts,SBS
+58,SBS54,A3L1,0.02737344742464946,Sequencing Artefacts,SBS
+59,SBS55,A3L1,0.004159332379775331,Sequencing Artefacts,SBS
+60,SBS56,A3L1,0.0,Sequencing Artefacts,SBS
+61,SBS57,A3L1,0.040571477469279305,Sequencing Artefacts,SBS
+62,SBS58,A3L1,0.0,Sequencing Artefacts,SBS
+63,SBS59,A3L1,0.0,Sequencing Artefacts,SBS
+64,SBS60,A3L1,0.0,Sequencing Artefacts,SBS
+65,SBS84,A3L1,0.0,Activity of activation-induced cytidine deaminase (AID),SBS
+66,SBS85,A3L1,0.0,Indirect effects of activation-induced cytidine deaminase (AID),SBS
+67,SBS1,A3L2,0.01990323615885513,Spontaneous deamination of 5-methylcytosine,SBS
+68,SBS2,A3L2,0.0,Activity of APOBEC family of cytidine deaminases,SBS
+69,SBS3,A3L2,0.06522384596804898,Defective homologous recombination DNA damage repair,SBS
+70,SBS4,A3L2,0.018256169304432333,Tobacco smoking,SBS
+71,SBS5,A3L2,0.1600177037988264,Unknown,SBS
+72,SBS6,A3L2,0.015269170451385511,Mismatch repair,SBS
+73,SBS7a,A3L2,0.002232640565694536,Ultraviolet light exposure,SBS
+74,SBS7b,A3L2,0.0,Ultraviolet light exposure,SBS
+75,SBS7c,A3L2,0.0,Ultraviolet light exposure,SBS
+76,SBS7d,A3L2,0.0,Ultraviolet light exposure,SBS
+77,SBS8,A3L2,0.10779855698993161,Unknown,SBS
+78,SBS9,A3L2,0.0,Polimerase eta somatic hypermutation activity,SBS
+79,SBS10a,A3L2,0.003579887614693808,Polymerase epsilon exonuclease domain mutations,SBS
+80,SBS10b,A3L2,0.02005045103465159,Polymerase epsilon exonuclease domain mutations,SBS
+81,SBS11,A3L2,0.0,Temozolomide treatment,SBS
+82,SBS12,A3L2,0.04863348609827801,Unknown,SBS
+83,SBS13,A3L2,0.015202192968889517,Activity of APOBEC family of cytidine deaminases,SBS
+84,SBS14,A3L2,0.0,Mismatch repair,SBS
+85,SBS15,A3L2,0.0,Mismatch repair,SBS
+86,SBS16,A3L2,0.0012634844036180665,Unknown,SBS
+87,SBS17a,A3L2,0.0030893379442022318,Unknown,SBS
+88,SBS17b,A3L2,0.0006328251323097589,Unknown,SBS
+89,SBS18,A3L2,0.00547305271536316,Damage by reactive oxygen species,SBS
+90,SBS19,A3L2,0.0,Unknown,SBS
+91,SBS20,A3L2,0.0,Mismatch repair,SBS
+92,SBS21,A3L2,0.0,Mismatch repair,SBS
+93,SBS22,A3L2,0.005386511841493472,Aristolochic acid exposure,SBS
+94,SBS23,A3L2,0.0,Unknown,SBS
+95,SBS24,A3L2,0.0,Aflatoxin exposure,SBS
+96,SBS25,A3L2,0.0,Chemotherapy treatment,SBS
+97,SBS26,A3L2,0.0,Mismatch repair,SBS
+98,SBS27,A3L2,0.0,Sequencing Artefacts,SBS
+99,SBS28,A3L2,0.0,Unknown,SBS
+100,SBS29,A3L2,0.0,Tobacco chewing,SBS
+101,SBS30,A3L2,0.02609658646999859,Defective DNA base excision repair due to NTHL1 mutations,SBS
+102,SBS31,A3L2,0.0,Platinum chemotherapy treatment,SBS
+103,SBS32,A3L2,0.0,Azathioprine treatment,SBS
+104,SBS33,A3L2,0.012392685492568932,Unknown,SBS
+105,SBS34,A3L2,0.010042606159473045,Unknown,SBS
+106,SBS35,A3L2,0.0,Platinum chemotherapy treatment,SBS
+107,SBS36,A3L2,0.029640982241385085,Defective DNA base excision repair due to MUTYH mutations,SBS
+108,SBS37,A3L2,0.09420206913870584,Unknown,SBS
+109,SBS38,A3L2,0.0,Indirect effect of ultraviolet light,SBS
+110,SBS39,A3L2,0.0,Unknown,SBS
+111,SBS40,A3L2,0.030974304686851143,Unknown,SBS
+112,SBS41,A3L2,0.0,Unknown,SBS
+113,SBS42,A3L2,0.0,Haloalkane exposure,SBS
+114,SBS43,A3L2,0.02515855696264703,Sequencing Artefacts,SBS
+115,SBS44,A3L2,0.04639991290480052,Mismatch repair,SBS
+116,SBS45,A3L2,0.04574863685452925,Sequencing Artefacts,SBS
+117,SBS46,A3L2,0.05524532094893019,Sequencing Artefacts,SBS
+118,SBS47,A3L2,0.0,Sequencing Artefacts,SBS
+119,SBS48,A3L2,0.00165960650658442,Sequencing Artefacts,SBS
+120,SBS49,A3L2,0.0,Sequencing Artefacts,SBS
+121,SBS50,A3L2,0.0,Sequencing Artefacts,SBS
+122,SBS51,A3L2,0.0278157954284519,Sequencing Artefacts,SBS
+123,SBS52,A3L2,0.0067650534690037204,Sequencing Artefacts,SBS
+124,SBS53,A3L2,0.012418811351597024,Sequencing Artefacts,SBS
+125,SBS54,A3L2,0.024459870011273647,Sequencing Artefacts,SBS
+126,SBS55,A3L2,0.005019793434430935,Sequencing Artefacts,SBS
+127,SBS56,A3L2,0.0,Sequencing Artefacts,SBS
+128,SBS57,A3L2,0.04975019312109766,Sequencing Artefacts,SBS
+129,SBS58,A3L2,0.0,Sequencing Artefacts,SBS
+130,SBS59,A3L2,0.0,Sequencing Artefacts,SBS
+131,SBS60,A3L2,0.0,Sequencing Artefacts,SBS
+132,SBS84,A3L2,0.00419666182699694,Activity of activation-induced cytidine deaminase (AID),SBS
+133,SBS85,A3L2,0.0,Indirect effects of activation-induced cytidine deaminase (AID),SBS
+134,SBS1,A4L1,0.016542226921518247,Spontaneous deamination of 5-methylcytosine,SBS
+135,SBS2,A4L1,0.0,Activity of APOBEC family of cytidine deaminases,SBS
+136,SBS3,A4L1,0.05229118866984766,Defective homologous recombination DNA damage repair,SBS
+137,SBS4,A4L1,0.025796813876509617,Tobacco smoking,SBS
+138,SBS5,A4L1,0.11579916098646871,Unknown,SBS
+139,SBS6,A4L1,0.02271814353409952,Mismatch repair,SBS
+140,SBS7a,A4L1,0.0,Ultraviolet light exposure,SBS
+141,SBS7b,A4L1,0.0,Ultraviolet light exposure,SBS
+142,SBS7c,A4L1,0.0022643733108439665,Ultraviolet light exposure,SBS
+143,SBS7d,A4L1,0.0,Ultraviolet light exposure,SBS
+144,SBS8,A4L1,0.09760467463861494,Unknown,SBS
+145,SBS9,A4L1,0.0,Polimerase eta somatic hypermutation activity,SBS
+146,SBS10a,A4L1,0.0,Polymerase epsilon exonuclease domain mutations,SBS
+147,SBS10b,A4L1,0.02095337382012556,Polymerase epsilon exonuclease domain mutations,SBS
+148,SBS11,A4L1,0.0,Temozolomide treatment,SBS
+149,SBS12,A4L1,0.03195025211627516,Unknown,SBS
+150,SBS13,A4L1,0.014208370431797727,Activity of APOBEC family of cytidine deaminases,SBS
+151,SBS14,A4L1,0.0,Mismatch repair,SBS
+152,SBS15,A4L1,0.0,Mismatch repair,SBS
+153,SBS16,A4L1,0.0,Unknown,SBS
+154,SBS17a,A4L1,0.0,Unknown,SBS
+155,SBS17b,A4L1,0.0,Unknown,SBS
+156,SBS18,A4L1,0.01555620156548617,Damage by reactive oxygen species,SBS
+157,SBS19,A4L1,0.0,Unknown,SBS
+158,SBS20,A4L1,0.016054329823600586,Mismatch repair,SBS
+159,SBS21,A4L1,0.0,Mismatch repair,SBS
+160,SBS22,A4L1,0.0011311899626942914,Aristolochic acid exposure,SBS
+161,SBS23,A4L1,0.0,Unknown,SBS
+162,SBS24,A4L1,0.008135306524219432,Aflatoxin exposure,SBS
+163,SBS25,A4L1,0.0,Chemotherapy treatment,SBS
+164,SBS26,A4L1,0.0,Mismatch repair,SBS
+165,SBS27,A4L1,0.0,Sequencing Artefacts,SBS
+166,SBS28,A4L1,0.0,Unknown,SBS
+167,SBS29,A4L1,0.0,Tobacco chewing,SBS
+168,SBS30,A4L1,0.027369711020804124,Defective DNA base excision repair due to NTHL1 mutations,SBS
+169,SBS31,A4L1,0.0,Platinum chemotherapy treatment,SBS
+170,SBS32,A4L1,0.0,Azathioprine treatment,SBS
+171,SBS33,A4L1,0.012456637214282203,Unknown,SBS
+172,SBS34,A4L1,0.005801666374809926,Unknown,SBS
+173,SBS35,A4L1,0.0,Platinum chemotherapy treatment,SBS
+174,SBS36,A4L1,0.04395850085347744,Defective DNA base excision repair due to MUTYH mutations,SBS
+175,SBS37,A4L1,0.07136544817106932,Unknown,SBS
+176,SBS38,A4L1,0.0,Indirect effect of ultraviolet light,SBS
+177,SBS39,A4L1,0.0,Unknown,SBS
+178,SBS40,A4L1,0.06763049186364015,Unknown,SBS
+179,SBS41,A4L1,0.0,Unknown,SBS
+180,SBS42,A4L1,0.0,Haloalkane exposure,SBS
+181,SBS43,A4L1,0.018242773657708055,Sequencing Artefacts,SBS
+182,SBS44,A4L1,0.03087940520212038,Mismatch repair,SBS
+183,SBS45,A4L1,0.09725980195312406,Sequencing Artefacts,SBS
+184,SBS46,A4L1,0.065816530035052,Sequencing Artefacts,SBS
+185,SBS47,A4L1,0.0,Sequencing Artefacts,SBS
+186,SBS48,A4L1,0.0,Sequencing Artefacts,SBS
+187,SBS49,A4L1,0.0,Sequencing Artefacts,SBS
+188,SBS50,A4L1,0.0,Sequencing Artefacts,SBS
+189,SBS51,A4L1,0.03282001815401359,Sequencing Artefacts,SBS
+190,SBS52,A4L1,0.010391079618385653,Sequencing Artefacts,SBS
+191,SBS53,A4L1,0.010997535334337952,Sequencing Artefacts,SBS
+192,SBS54,A4L1,0.02192024179234014,Sequencing Artefacts,SBS
+193,SBS55,A4L1,0.002482005257214143,Sequencing Artefacts,SBS
+194,SBS56,A4L1,0.0,Sequencing Artefacts,SBS
+195,SBS57,A4L1,0.03315012239102525,Sequencing Artefacts,SBS
+196,SBS58,A4L1,0.0,Sequencing Artefacts,SBS
+197,SBS59,A4L1,0.006452424924494157,Sequencing Artefacts,SBS
+198,SBS60,A4L1,0.0,Sequencing Artefacts,SBS
+199,SBS84,A4L1,0.0,Activity of activation-induced cytidine deaminase (AID),SBS
+200,SBS85,A4L1,0.0,Indirect effects of activation-induced cytidine deaminase (AID),SBS
+201,SBS1,A4L2,0.024208563506362954,Spontaneous deamination of 5-methylcytosine,SBS
+202,SBS2,A4L2,0.0,Activity of APOBEC family of cytidine deaminases,SBS
+203,SBS3,A4L2,0.05824426209243162,Defective homologous recombination DNA damage repair,SBS
+204,SBS4,A4L2,0.0,Tobacco smoking,SBS
+205,SBS5,A4L2,0.1288304509136468,Unknown,SBS
+206,SBS6,A4L2,0.0025924851396370257,Mismatch repair,SBS
+207,SBS7a,A4L2,0.0,Ultraviolet light exposure,SBS
+208,SBS7b,A4L2,0.0,Ultraviolet light exposure,SBS
+209,SBS7c,A4L2,0.0,Ultraviolet light exposure,SBS
+210,SBS7d,A4L2,0.0,Ultraviolet light exposure,SBS
+211,SBS8,A4L2,0.09509417575635151,Unknown,SBS
+212,SBS9,A4L2,0.0,Polimerase eta somatic hypermutation activity,SBS
+213,SBS10a,A4L2,0.0024079912302257395,Polymerase epsilon exonuclease domain mutations,SBS
+214,SBS10b,A4L2,0.021948777937428818,Polymerase epsilon exonuclease domain mutations,SBS
+215,SBS11,A4L2,0.0,Temozolomide treatment,SBS
+216,SBS12,A4L2,0.035915340232848085,Unknown,SBS
+217,SBS13,A4L2,0.01370591625362974,Activity of APOBEC family of cytidine deaminases,SBS
+218,SBS14,A4L2,0.0,Mismatch repair,SBS
+219,SBS15,A4L2,0.00076508040068319,Mismatch repair,SBS
+220,SBS16,A4L2,0.0,Unknown,SBS
+221,SBS17a,A4L2,0.0,Unknown,SBS
+222,SBS17b,A4L2,0.0,Unknown,SBS
+223,SBS18,A4L2,0.025864579201973426,Damage by reactive oxygen species,SBS
+224,SBS19,A4L2,0.0,Unknown,SBS
+225,SBS20,A4L2,0.02193106251747092,Mismatch repair,SBS
+226,SBS21,A4L2,0.0,Mismatch repair,SBS
+227,SBS22,A4L2,0.00615476153507009,Aristolochic acid exposure,SBS
+228,SBS23,A4L2,0.0,Unknown,SBS
+229,SBS24,A4L2,0.022579371128959323,Aflatoxin exposure,SBS
+230,SBS25,A4L2,0.0,Chemotherapy treatment,SBS
+231,SBS26,A4L2,0.0,Mismatch repair,SBS
+232,SBS27,A4L2,0.0,Sequencing Artefacts,SBS
+233,SBS28,A4L2,0.0,Unknown,SBS
+234,SBS29,A4L2,0.0,Tobacco chewing,SBS
+235,SBS30,A4L2,0.03126772827964936,Defective DNA base excision repair due to NTHL1 mutations,SBS
+236,SBS31,A4L2,0.0,Platinum chemotherapy treatment,SBS
+237,SBS32,A4L2,0.0,Azathioprine treatment,SBS
+238,SBS33,A4L2,0.007070517278926633,Unknown,SBS
+239,SBS34,A4L2,0.007453401680890455,Unknown,SBS
+240,SBS35,A4L2,0.0,Platinum chemotherapy treatment,SBS
+241,SBS36,A4L2,0.04654849176979813,Defective DNA base excision repair due to MUTYH mutations,SBS
+242,SBS37,A4L2,0.0658627154484336,Unknown,SBS
+243,SBS38,A4L2,0.0024764321451757145,Indirect effect of ultraviolet light,SBS
+244,SBS39,A4L2,0.0,Unknown,SBS
+245,SBS40,A4L2,0.057043600475787576,Unknown,SBS
+246,SBS41,A4L2,0.0,Unknown,SBS
+247,SBS42,A4L2,0.0,Haloalkane exposure,SBS
+248,SBS43,A4L2,0.02221880359120803,Sequencing Artefacts,SBS
+249,SBS44,A4L2,0.03619565063665901,Mismatch repair,SBS
+250,SBS45,A4L2,0.08858804018619912,Sequencing Artefacts,SBS
+251,SBS46,A4L2,0.04637527610731773,Sequencing Artefacts,SBS
+252,SBS47,A4L2,0.0,Sequencing Artefacts,SBS
+253,SBS48,A4L2,0.0025762048615500235,Sequencing Artefacts,SBS
+254,SBS49,A4L2,0.0,Sequencing Artefacts,SBS
+255,SBS50,A4L2,0.0,Sequencing Artefacts,SBS
+256,SBS51,A4L2,0.02345042592038787,Sequencing Artefacts,SBS
+257,SBS52,A4L2,0.004166009846519528,Sequencing Artefacts,SBS
+258,SBS53,A4L2,0.012411496430918184,Sequencing Artefacts,SBS
+259,SBS54,A4L2,0.026262913509459824,Sequencing Artefacts,SBS
+260,SBS55,A4L2,0.007815776976503782,Sequencing Artefacts,SBS
+261,SBS56,A4L2,0.0,Sequencing Artefacts,SBS
+262,SBS57,A4L2,0.04484021906759994,Sequencing Artefacts,SBS
+263,SBS58,A4L2,0.0,Sequencing Artefacts,SBS
+264,SBS59,A4L2,0.0042363128347206,Sequencing Artefacts,SBS
+265,SBS60,A4L2,0.0,Sequencing Artefacts,SBS
+266,SBS84,A4L2,0.0,Activity of activation-induced cytidine deaminase (AID),SBS
+267,SBS85,A4L2,0.0028971651055759717,Indirect effects of activation-induced cytidine deaminase (AID),SBS
+0,DBS1,A3L1,0.0,Ultraviolet light exposure,DBS
+1,DBS2,A3L1,0.029869970731890738,Tobacco smoking and other mutagens,DBS
+2,DBS3,A3L1,0.14610615234534732,Polymerase epsilon exonuclease domain mutations,DBS
+3,DBS4,A3L1,0.09466219540599737,Unknown,DBS
+4,DBS5,A3L1,0.03298577518810764,Platinum chemotherapy treatment,DBS
+5,DBS6,A3L1,0.08853870676230487,Unknown,DBS
+6,DBS7,A3L1,0.17443212930120822,Mismatch repair,DBS
+7,DBS8,A3L1,0.015330059039943654,Unknown,DBS
+8,DBS9,A3L1,0.19948605673275271,Unknown,DBS
+9,DBS10,A3L1,0.07086290703677796,Mismatch repair,DBS
+10,DBS11,A3L1,0.14772604745566942,Unknown,DBS
+11,DBS1,A3L2,0.0,Ultraviolet light exposure,DBS
+12,DBS2,A3L2,0.03611979059588226,Tobacco smoking and other mutagens,DBS
+13,DBS3,A3L2,0.13928681580097774,Polymerase epsilon exonuclease domain mutations,DBS
+14,DBS4,A3L2,0.08068956853101836,Unknown,DBS
+15,DBS5,A3L2,0.03669196542259397,Platinum chemotherapy treatment,DBS
+16,DBS6,A3L2,0.13452242194938824,Unknown,DBS
+17,DBS7,A3L2,0.1442093802874916,Mismatch repair,DBS
+18,DBS8,A3L2,0.02858252003186308,Unknown,DBS
+19,DBS9,A3L2,0.20101753876544654,Unknown,DBS
+20,DBS10,A3L2,0.06821607965713758,Mismatch repair,DBS
+21,DBS11,A3L2,0.13066391895820073,Unknown,DBS
+22,DBS1,A4L1,0.0,Ultraviolet light exposure,DBS
+23,DBS2,A4L1,0.03328117535506662,Tobacco smoking and other mutagens,DBS
+24,DBS3,A4L1,0.12213323606205004,Polymerase epsilon exonuclease domain mutations,DBS
+25,DBS4,A4L1,0.07474820905370114,Unknown,DBS
+26,DBS5,A4L1,0.06267110209802824,Platinum chemotherapy treatment,DBS
+27,DBS6,A4L1,0.1069690006967361,Unknown,DBS
+28,DBS7,A4L1,0.1249991100014844,Mismatch repair,DBS
+29,DBS8,A4L1,0.004361179586902345,Unknown,DBS
+30,DBS9,A4L1,0.22973168960578336,Unknown,DBS
+31,DBS10,A4L1,0.09297391610109312,Mismatch repair,DBS
+32,DBS11,A4L1,0.14813138143915466,Unknown,DBS
+33,DBS1,A4L2,0.0,Ultraviolet light exposure,DBS
+34,DBS2,A4L2,0.02643796857070465,Tobacco smoking and other mutagens,DBS
+35,DBS3,A4L2,0.14800936092681422,Polymerase epsilon exonuclease domain mutations,DBS
+36,DBS4,A4L2,0.06028216802859426,Unknown,DBS
+37,DBS5,A4L2,0.05719899871114321,Platinum chemotherapy treatment,DBS
+38,DBS6,A4L2,0.09612475543712752,Unknown,DBS
+39,DBS7,A4L2,0.15131761992381465,Mismatch repair,DBS
+40,DBS8,A4L2,0.0051187415419242715,Unknown,DBS
+41,DBS9,A4L2,0.2771921860147648,Unknown,DBS
+42,DBS10,A4L2,0.051421977850464026,Mismatch repair,DBS
+43,DBS11,A4L2,0.1268962229946484,Unknown,DBS
+0,ID1,A3L1,0.23046048036353053,Mismatch repair,SID
+1,ID2,A3L1,0.5080857905679987,Mismatch repair,SID
+2,ID3,A3L1,0.0,Tobacco smoking,SID
+3,ID4,A3L1,0.0,Unknown,SID
+4,ID5,A3L1,0.0,Unknown,SID
+5,ID6,A3L1,0.0,Defective homologous recombination DNA damage repair,SID
+6,ID7,A3L1,0.0,Mismatch repair,SID
+7,ID8,A3L1,0.0,Repair of DNA double strand breaks by non-homologous end-joining mechanisms or mutations in topoisomerase TOP2A,SID
+8,ID9,A3L1,0.0,Unknown,SID
+9,ID10,A3L1,0.0,Unknown,SID
+10,ID11,A3L1,0.0,Unknown,SID
+11,ID12,A3L1,0.2614537290684707,Unknown,SID
+12,ID13,A3L1,0.0,Ultraviolet light exposure,SID
+13,ID14,A3L1,0.0,Unknown,SID
+14,ID15,A3L1,0.0,Unknown,SID
+15,ID16,A3L1,0.0,Unknown,SID
+16,ID17,A3L1,0.0,Mutations in topoisomerase TOP2A,SID
+17,ID1,A3L2,0.23443680501027156,Mismatch repair,SID
+18,ID2,A3L2,0.5096489975094881,Mismatch repair,SID
+19,ID3,A3L2,0.0,Tobacco smoking,SID
+20,ID4,A3L2,0.0,Unknown,SID
+21,ID5,A3L2,0.0,Unknown,SID
+22,ID6,A3L2,0.0,Defective homologous recombination DNA damage repair,SID
+23,ID7,A3L2,0.0,Mismatch repair,SID
+24,ID8,A3L2,0.0,Repair of DNA double strand breaks by non-homologous end-joining mechanisms or mutations in topoisomerase TOP2A,SID
+25,ID9,A3L2,0.0,Unknown,SID
+26,ID10,A3L2,0.0,Unknown,SID
+27,ID11,A3L2,0.0,Unknown,SID
+28,ID12,A3L2,0.2559141974802402,Unknown,SID
+29,ID13,A3L2,0.0,Ultraviolet light exposure,SID
+30,ID14,A3L2,0.0,Unknown,SID
+31,ID15,A3L2,0.0,Unknown,SID
+32,ID16,A3L2,0.0,Unknown,SID
+33,ID17,A3L2,0.0,Mutations in topoisomerase TOP2A,SID
+34,ID1,A4L1,0.23292664206839603,Mismatch repair,SID
+35,ID2,A4L1,0.5052368575572816,Mismatch repair,SID
+36,ID3,A4L1,0.0,Tobacco smoking,SID
+37,ID4,A4L1,0.0,Unknown,SID
+38,ID5,A4L1,0.0,Unknown,SID
+39,ID6,A4L1,0.0,Defective homologous recombination DNA damage repair,SID
+40,ID7,A4L1,0.0,Mismatch repair,SID
+41,ID8,A4L1,0.0,Repair of DNA double strand breaks by non-homologous end-joining mechanisms or mutations in topoisomerase TOP2A,SID
+42,ID9,A4L1,0.0,Unknown,SID
+43,ID10,A4L1,0.0,Unknown,SID
+44,ID11,A4L1,0.0,Unknown,SID
+45,ID12,A4L1,0.2618365003743222,Unknown,SID
+46,ID13,A4L1,0.0,Ultraviolet light exposure,SID
+47,ID14,A4L1,0.0,Unknown,SID
+48,ID15,A4L1,0.0,Unknown,SID
+49,ID16,A4L1,0.0,Unknown,SID
+50,ID17,A4L1,0.0,Mutations in topoisomerase TOP2A,SID
+51,ID1,A4L2,0.23380157588077755,Mismatch repair,SID
+52,ID2,A4L2,0.5086843899731391,Mismatch repair,SID
+53,ID3,A4L2,0.0,Tobacco smoking,SID
+54,ID4,A4L2,0.0,Unknown,SID
+55,ID5,A4L2,0.0,Unknown,SID
+56,ID6,A4L2,0.0,Defective homologous recombination DNA damage repair,SID
+57,ID7,A4L2,0.0,Mismatch repair,SID
+58,ID8,A4L2,0.0,Repair of DNA double strand breaks by non-homologous end-joining mechanisms or mutations in topoisomerase TOP2A,SID
+59,ID9,A4L2,0.0,Unknown,SID
+60,ID10,A4L2,0.0,Unknown,SID
+61,ID11,A4L2,0.0,Unknown,SID
+62,ID12,A4L2,0.25751403414608326,Unknown,SID
+63,ID13,A4L2,0.0,Ultraviolet light exposure,SID
+64,ID14,A4L2,0.0,Unknown,SID
+65,ID15,A4L2,0.0,Unknown,SID
+66,ID16,A4L2,0.0,Unknown,SID
+67,ID17,A4L2,0.0,Mutations in topoisomerase TOP2A,SID

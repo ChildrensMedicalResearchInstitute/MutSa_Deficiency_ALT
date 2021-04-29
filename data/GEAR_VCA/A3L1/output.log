@@ -1,0 +1,36 @@
+[1;94mInfo    [2020-07-27 13:32:31] | [0m-----------------------------------------------
+[1;94mInfo    [2020-07-27 13:32:31] | [0m   ______     __    __     ______     __       
+[1;94mInfo    [2020-07-27 13:32:31] | [0m  /\  ___\   /\ "-./  \   /\  == \   /\ \      
+[1;94mInfo    [2020-07-27 13:32:31] | [0m  \ \ \____  \ \ \-./\ \  \ \  __<   \ \ \     
+[1;94mInfo    [2020-07-27 13:32:31] | [0m   \ \_____\  \ \_\ \ \_\  \ \_\ \_\  \ \_\    
+[1;94mInfo    [2020-07-27 13:32:31] | [0m    \/_____/   \/_/  \/_/   \/_/ /_/   \/_/    
+[1;94mInfo    [2020-07-27 13:32:31] | [0m
+[1;94mInfo    [2020-07-27 13:32:31] | [0m---- Children’s Medical Research Institute ----
+[1;94mInfo    [2020-07-27 13:32:31] | [0m Finding cures for childhood genetic diseases  
+[1;94mInfo    [2020-07-27 13:32:31] | [0m
+[1;94mInfo    [2020-07-27 13:32:31] | [0m ==============================================
+[1;94mInfo    [2020-07-27 13:32:31] | [0m GEAR, Genomic sEquence AnalyzeR.
+[1;94mInfo    [2020-07-27 13:32:31] | [0m Author: Pablo Galaviz             
+[1;94mInfo    [2020-07-27 13:32:31] | [0m pgalaviz@cmri.org.au              
+[1;94mInfo    [2020-07-27 13:32:31] | [0m Build: Jul 27 2020 13:30:35
+[1;94mInfo    [2020-07-27 13:32:31] | [0m ==============================================
+[1;94mInfo    [2020-07-27 13:32:31] | [0m
+[1;94mInfo    [2020-07-27 13:32:31] | [0m
+[1;94mInfo    [2020-07-27 13:32:31] | [0mParameters :
+[1;94mInfo    [2020-07-27 13:32:31] | [0m...............................................................
+[1;94mInfo    [2020-07-27 13:32:31] | [0mcommon.backup                  : false
+[1;94mInfo    [2020-07-27 13:32:31] | [0mcommon.chunk_size              : 1000000
+[1;94mInfo    [2020-07-27 13:32:31] | [0mcommon.input_file              : ../../data/Mutect2/A3L1.vcf.gz
+[1;94mInfo    [2020-07-27 13:32:31] | [0mcommon.output_path             : GEAR_VCA/A3L1
+[1;94mInfo    [2020-07-27 13:32:31] | [0mcommon.progress                : 0
+[1;94mInfo    [2020-07-27 13:32:31] | [0mcommon.threads                 : 10
+[1;94mInfo    [2020-07-27 13:32:31] | [0mmotif_count.quality_map        : 0
+[1;94mInfo    [2020-07-27 13:32:31] | [0mmotif_count.quality_value      : 0
+[1;94mInfo    [2020-07-27 13:32:31] | [0mmotif_count.validate           : false
+[1;94mInfo    [2020-07-27 13:32:31] | [0mparameters                     : input.par
+[1;94mInfo    [2020-07-27 13:32:31] | [0mtask                           : VariantCallAnalysis
+[1;94mInfo    [2020-07-27 13:32:31] | [0mvariant_call_analysis.reference : /media/pablo/Samsung_2TB/Novogene/hg38/hg38.fa
+[1;94mInfo    [2020-07-27 13:32:31] | [0mvariant_call_analysis.regions  : vc_regions.json
+[1;94mInfo    [2020-07-27 13:32:31] | [0m...............................................................
+[1;94mInfo    [2020-07-27 13:32:40] | [0mFinished in 9 seconds 22 milliseconds 
+[1;94mInfo    [2020-07-27 13:32:40] | [0mAll done! 
