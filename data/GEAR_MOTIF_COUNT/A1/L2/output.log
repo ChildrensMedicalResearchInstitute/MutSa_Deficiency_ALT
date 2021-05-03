@@ -1,0 +1,40 @@
+[1;94mInfo    [2020-10-20 11:29:14] | [0m-----------------------------------------------
+[1;94mInfo    [2020-10-20 11:29:14] | [0m   ______     __    __     ______     __       
+[1;94mInfo    [2020-10-20 11:29:14] | [0m  /\  ___\   /\ "-./  \   /\  == \   /\ \      
+[1;94mInfo    [2020-10-20 11:29:14] | [0m  \ \ \____  \ \ \-./\ \  \ \  __<   \ \ \     
+[1;94mInfo    [2020-10-20 11:29:14] | [0m   \ \_____\  \ \_\ \ \_\  \ \_\ \_\  \ \_\    
+[1;94mInfo    [2020-10-20 11:29:14] | [0m    \/_____/   \/_/  \/_/   \/_/ /_/   \/_/    
+[1;94mInfo    [2020-10-20 11:29:14] | [0m
+[1;94mInfo    [2020-10-20 11:29:14] | [0m---- Children’s Medical Research Institute ----
+[1;94mInfo    [2020-10-20 11:29:14] | [0m Finding cures for childhood genetic diseases  
+[1;94mInfo    [2020-10-20 11:29:14] | [0m
+[1;94mInfo    [2020-10-20 11:29:14] | [0m ==============================================
+[1;94mInfo    [2020-10-20 11:29:14] | [0m GEAR, Genomic sEquence AnalyzeR.
+[1;94mInfo    [2020-10-20 11:29:14] | [0m Author: Pablo Galaviz             
+[1;94mInfo    [2020-10-20 11:29:14] | [0m pgalaviz@cmri.org.au              
+[1;94mInfo    [2020-10-20 11:29:14] | [0m Build: Oct 20 2020 11:27:01
+[1;94mInfo    [2020-10-20 11:29:14] | [0m ==============================================
+[1;94mInfo    [2020-10-20 11:29:14] | [0m
+[1;94mInfo    [2020-10-20 11:29:14] | [0m
+[1;94mInfo    [2020-10-20 11:29:14] | [0mParameters :
+[1;94mInfo    [2020-10-20 11:29:14] | [0m...............................................................
+[1;94mInfo    [2020-10-20 11:29:14] | [0mcommon.backup                  : true
+[1;94mInfo    [2020-10-20 11:29:14] | [0mcommon.chunk_size              : 1000000
+[1;94mInfo    [2020-10-20 11:29:14] | [0mcommon.input_file              : GEAR_IWGS/A1/L2/A1_CSFP200000629-1a_HT52MDSXX_L2.bam
+[1;94mInfo    [2020-10-20 11:29:14] | [0mcommon.output_path             : GEAR_MOTIF_COUNT/A1L2
+[1;94mInfo    [2020-10-20 11:29:14] | [0mcommon.progress                : 0
+[1;94mInfo    [2020-10-20 11:29:14] | [0mcommon.threads                 : 6
+[1;94mInfo    [2020-10-20 11:29:14] | [0mgenome_analysis.validate       : true
+[1;94mInfo    [2020-10-20 11:29:14] | [0mmotif_count.motifs             : motifs.json
+[1;94mInfo    [2020-10-20 11:29:14] | [0mmotif_count.quality_map        : 20
+[1;94mInfo    [2020-10-20 11:29:14] | [0mmotif_count.quality_value      : 0
+[1;94mInfo    [2020-10-20 11:29:14] | [0mmotif_count.validate           : false
+[1;94mInfo    [2020-10-20 11:29:14] | [0mparameters                     : input.par
+[1;94mInfo    [2020-10-20 11:29:14] | [0mtask                           : MotifCount
+[1;94mInfo    [2020-10-20 11:29:14] | [0mvariant_call_analysis.reference : /media/pablo/Samsung_2TB/Novogene/hg38/hg38.fa
+[1;94mInfo    [2020-10-20 11:29:14] | [0mvariant_call_analysis.regions  : vc_regions.json
+[1;94mInfo    [2020-10-20 11:29:14] | [0m...............................................................
+[1;94mInfo    [2020-10-20 11:29:14] | [0mProcessing: 79382 reads.
+[1;94mInfo    [2020-10-20 11:29:47] | [0mTotal sequences analysed: 77730
+[1;94mInfo    [2020-10-20 11:29:47] | [0mFinished in 33 seconds 586 milliseconds 
+[1;94mInfo    [2020-10-20 11:29:47] | [0mAll done! 

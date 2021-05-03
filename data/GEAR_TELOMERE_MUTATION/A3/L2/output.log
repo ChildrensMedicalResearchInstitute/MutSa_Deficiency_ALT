@@ -1,0 +1,38 @@
+Info    [2021-04-12 14:51:55] | -----------------------------------------------
+Info    [2021-04-12 14:51:55] |    ______     __    __     ______     __       
+Info    [2021-04-12 14:51:55] |   /\  ___\   /\ "-./  \   /\  == \   /\ \      
+Info    [2021-04-12 14:51:55] |   \ \ \____  \ \ \-./\ \  \ \  __<   \ \ \     
+Info    [2021-04-12 14:51:55] |    \ \_____\  \ \_\ \ \_\  \ \_\ \_\  \ \_\    
+Info    [2021-04-12 14:51:55] |     \/_____/   \/_/  \/_/   \/_/ /_/   \/_/    
+Info    [2021-04-12 14:51:55] | 
+Info    [2021-04-12 14:51:55] | ---- Children’s Medical Research Institute ----
+Info    [2021-04-12 14:51:55] |  Finding cures for childhood genetic diseases  
+Info    [2021-04-12 14:51:55] | 
+Info    [2021-04-12 14:51:55] |  ==============================================
+Info    [2021-04-12 14:51:55] |  GEAR, Genomic sEquence AnalyzeR.
+Info    [2021-04-12 14:51:55] |  Author: Pablo Galaviz             
+Info    [2021-04-12 14:51:55] |  pgalaviz@cmri.org.au              
+Info    [2021-04-12 14:51:55] |  Build: Apr  8 2021 15:41:32
+Info    [2021-04-12 14:51:55] |  ==============================================
+Info    [2021-04-12 14:51:55] | 
+Info    [2021-04-12 14:51:55] | 
+Info    [2021-04-12 14:51:55] | Parameters :
+Info    [2021-04-12 14:51:55] | ...............................................................
+Info    [2021-04-12 14:51:55] | common.backup                  : false
+Info    [2021-04-12 14:51:55] | common.chunk_size              : 10000
+Info    [2021-04-12 14:51:55] | common.output_path             : GEAR_TELOMERE_MUTATION/A3/L2
+Info    [2021-04-12 14:51:55] | common.progress                : 0
+Info    [2021-04-12 14:51:55] | common.threads                 : 1
+Info    [2021-04-12 14:51:55] | genome_analysis.validate       : true
+Info    [2021-04-12 14:51:55] | iwgs_analysis.count_filter_threshold : 5
+Info    [2021-04-12 14:51:55] | motif_count.quality_map        : 0
+Info    [2021-04-12 14:51:55] | motif_count.quality_value      : 0
+Info    [2021-04-12 14:51:55] | motif_count.validate           : false
+Info    [2021-04-12 14:51:55] | task                           : TelomereMutations
+Info    [2021-04-12 14:51:55] | telomere_mutations.query_file  : GEAR_IWGS/A3/L2/telomere.fq
+Info    [2021-04-12 14:51:55] | telomere_mutations.target_file : telomere.fa
+Info    [2021-04-12 14:51:55] | telomere_mutations.trimming_threshold : 20
+Info    [2021-04-12 14:51:55] | telomere_mutations.trimming_window_mean : 6
+Info    [2021-04-12 14:51:55] | ...............................................................
+Info    [2021-04-12 14:52:52] | Finished in 57 seconds 475 milliseconds 
+Info    [2021-04-12 14:52:52] | All done! 

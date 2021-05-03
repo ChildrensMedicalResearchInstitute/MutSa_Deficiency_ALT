@@ -2,7 +2,7 @@ import argparse
 import json
 import sys
 import time
-
+import gzip
 import numpy as np
 import pandas as pd
 
@@ -25,7 +25,7 @@ def read_gear_mutations(input_path):
     '''
 
     # open the input file
-    with open(input_path) as f:
+    with gzip.open(input_path) as f:
         # load the data and create an empty list
         data = json.load(f)
         data_list = list()
@@ -81,7 +81,7 @@ if __name__ == "__main__":
     directory_exists(args.input, True)
 
     data_list = list()
-    for f in find_files(args.input, "json"):
+    for f in find_files(args.input, "json.gz",compressed=True):
         if "._" in f:
             continue
         logging.info("reading file: %s", f)

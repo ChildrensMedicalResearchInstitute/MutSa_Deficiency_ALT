@@ -96,14 +96,17 @@ def print_cmri_welcome(name):
     logging.info("")
 
 
-def find_files(input_path, ext, path_list=None):
+def find_files(input_path, ext, compressed=False, path_list=None ):
     if path_list is None:
         path_list = list()
-
+    file_name_list=os.path.basename(input_path).split(".")
     if os.path.isdir(input_path):
         for p in os.listdir(input_path):
-            find_files(os.path.join(input_path, p), ext, path_list)
-    elif os.path.basename(input_path).split(".")[-1] == ext:
+            find_files(os.path.join(input_path, p), ext, compressed, path_list)
+    elif compressed and len(file_name_list) ==3:
+        if ".".join(file_name_list[1:]) == ext:
+            path_list.append(input_path)
+    elif file_name_list[-1] == ext:
         path_list.append(input_path)
 
     return path_list

@@ -2,6 +2,7 @@ import argparse
 import json
 import sys
 import time
+import gzip
 
 import numpy as np
 import pandas as pd
@@ -12,41 +13,41 @@ from utils import *
 def read_gear_vca(input_path):
     name_map = {'q_telomere': "telomere", 'inner_non_telomeric': "non_telomeric", 'p_telomere': "telomere",
                 "mapq_fail_": "mapq_fail_", "other_": "other_", "qv_fail_": "qv_fail", "unmapped_": "unmapped"}
-    with open(input_path) as f:
+    with gzip.open(input_path) as f:
         data = json.load(f)
-    data_list = list()
-    for chromosome, clist in data.items():
-        for item in clist:
-            name = item["name"]
-            for mutation, sample_data in item["mutations"].items():
-                mutation_id = mutation.split(":")[0]
-                mutation_list = mutation_id.split("_")
-                if "INS" in mutation or "DEL" in mutation:
-                    signature = "indels"
-                elif len(mutation_list) == 2:
-                    signature = "snp"
-                else:
-                    signature = "dnp"
+        data_list = list()
+        for chromosome, clist in data.items():
+            for item in clist:
+                name = item["name"]
+                for mutation, sample_data in item["mutations"].items():
+                    mutation_id = mutation.split(":")[0]
+                    mutation_list = mutation_id.split("_")
+                    if "INS" in mutation or "DEL" in mutation:
+                        signature = "indels"
+                    elif len(mutation_list) == 2:
+                        signature = "snp"
+                    else:
+                        signature = "dnp"
 
-                filter_key = mutation.split(":")[-1]
-                for k, v in sample_data.items():
-                    mutation_type = mutation_list[0]
-                    mutation_subtype = np.nan if len(mutation_list) < 2 else mutation_list[1]
-                    mutation_indel_size = np.nan if len(mutation_list) < 3 else mutation_list[2]
-                    mutation_repeat_size = np.nan if len(mutation_list) < 4 else mutation_list[3]
-                    data_list.append({
-                        "chromosome": chromosome
-                        , "name": name_map[name]
-                        , "Type": mutation_type
-                        , "SubType": mutation_subtype
-                        , "IndelSize": mutation_indel_size
-                        , "RepeatSize": mutation_repeat_size
-                        , 'signature': signature
-                        , "filter": filter_key
-                        , "mutation_id": mutation_id
-                        , "sample": k
-                        , "count": v})
-    return pd.DataFrame(data_list).query("count != 0")
+                    filter_key = mutation.split(":")[-1]
+                    for k, v in sample_data.items():
+                        mutation_type = mutation_list[0]
+                        mutation_subtype = np.nan if len(mutation_list) < 2 else mutation_list[1]
+                        mutation_indel_size = np.nan if len(mutation_list) < 3 else mutation_list[2]
+                        mutation_repeat_size = np.nan if len(mutation_list) < 4 else mutation_list[3]
+                        data_list.append({
+                            "chromosome": chromosome
+                            , "name": name_map[name]
+                            , "Type": mutation_type
+                            , "SubType": mutation_subtype
+                            , "IndelSize": mutation_indel_size
+                            , "RepeatSize": mutation_repeat_size
+                            , 'signature': signature
+                            , "filter": filter_key
+                            , "mutation_id": mutation_id
+                            , "sample": k
+                            , "count": v})
+        return pd.DataFrame(data_list).query("count != 0")
 
 
 def calculate_percentage(x):
@@ -103,7 +104,7 @@ if __name__ == "__main__":
     directory_exists(args.input, True)
 
     data_list = list()
-    for f in find_files(args.input, "json"):
+    for f in find_files(args.input, "json.gz",compressed=True):
         if os.path.basename(f)[0] == ".":
             continue
         logging.info("Processing file %s", f)
